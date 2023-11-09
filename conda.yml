@@ -1,0 +1,10 @@
+name: box
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - yapf
+  - pip
+  - pip:
+    - -r requirements.txt
