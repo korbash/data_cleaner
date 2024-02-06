@@ -1,4 +1,4 @@
-name: box
+name: data_cleaner
 channels:
   - conda-forge
 dependencies:

@@ -2,7 +2,4 @@ __pycache__/
 .vscode/
 .ipynb_checkpoints/
 data/
-plots/
-output/
-keys.env
-pytdbot.log
+.env
